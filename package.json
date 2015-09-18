@@ -1,5 +1,5 @@
 {
-  "name": "connect-redis",
+  "name": "connect-redis-multisession",
   "description": "Redis session store for Connect",
   "version": "1.4.7",
   "author": "TJ Holowaychuk <tj@vision-media.ca>",
